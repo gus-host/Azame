@@ -663,6 +663,8 @@ a.btn-header {
 
 .no-vert-scroll {
   overflow-y: hidden;
+  /* pointer-events: none; */
+  height: 100vh;
 }
 
 .modal-btn {
